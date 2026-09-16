@@ -98,5 +98,5 @@ Los siguientes conteos confirman que la migración fue exitosa:
 | `continent`      | 8                   | ✅ 8      |
 
 img/taller.png
-
+![Verificación final](img/taller.png)
 ![Verificación final](img/verificacion_final.png)
