@@ -97,6 +97,8 @@ Los siguientes conteos confirman que la migración fue exitosa:
 | `countrylanguage`| 983                 | ✅ 983    |
 | `continent`      | 8                   | ✅ 8      |
 
-img/taller.png
 ![Verificación final](img/taller.png)
+
+---------------------------------------------------------------------------------------------------------
+
 ![Verificación final](img/verificacion_final.png)
